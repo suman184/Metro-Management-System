@@ -30,7 +30,7 @@ A simple C-based console program to simulate and manage a metro rail network. Th
 ## ▶️ How to Compile and Run
 
 ```bash
-gcc metro.c -o metro
+gcc Team_07.c -o metro
 ./metro
 ```
 
